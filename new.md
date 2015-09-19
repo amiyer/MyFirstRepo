@@ -1,5 +1,4 @@
-<p><markdown>
-#Markdown Live Editor#
+
 ## This is the header
 
 Here is some regular text.
@@ -16,4 +15,3 @@ More text
 
 
   [1]: http://www.google.ca
-</markdown></p>
